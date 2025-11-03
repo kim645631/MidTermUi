@@ -80,3 +80,7 @@ CMakeLists.txt.user*
 .rcc/
 .uic/
 /build*/
+
+# Qt build artifacts
+moc_predefs.h
+MidTermUi
